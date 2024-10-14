@@ -29,7 +29,7 @@ O objetivo do jogo é simples: controlar o pássaro através de toques ou clique
 ## 📸 Imagens do Projeto
 
 ### Gameplay
-![Vídeo de Gameplay]("C:\Users\Kauan\Videos\vidiao].mp4") <!-- Substitua pela URL de um GIF ou vídeo do gameplay -->
+![Vídeo de Gameplay](https://github.com/pExola/FlappyBirdClone/blob/main/giff.mp4) <!-- Substitua pela URL de um GIF ou vídeo do gameplay -->
 
 ---
 
